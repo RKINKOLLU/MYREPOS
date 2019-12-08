@@ -4,5 +4,5 @@ class RK:
     def main():
         c = a + b
         print("Sum=",c)
-        10return
+        return
 RK.main()

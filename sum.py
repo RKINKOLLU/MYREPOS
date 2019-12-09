@@ -6,5 +6,6 @@ class Calc:
         print("Sum = ", c)
         print("Modified code in github")
         print("modified in lap 3rd commit")
+        print("final code ready to go")
 Calc.main()
 

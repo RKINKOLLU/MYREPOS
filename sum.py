@@ -4,5 +4,6 @@ class Calc:
     def main():
         c = a + b
         print("Sum = ", c)
+        print("Modified code in github")
 Calc.main()
 
